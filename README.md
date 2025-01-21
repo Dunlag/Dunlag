@@ -7,10 +7,6 @@
 
 🌱 Right now, I'm focusing on learning both frontend and backend development. I'm diving into technologies like Node.js, Docker, PHP, and JavaScript to build full-stack applications.
 
-📚 I'm always open to learning new things and sharing knowledge with others.
-
-💬 If you have an interesting project or idea, feel free to reach out!
-
 ----
 
 👋 Hola, soy Fernando, un desarrollador apasionado con un enfoque en el desarrollo full-stack. Trabajo con tecnologías como Node.js, Express, Docker, TailwindCSS y bases de datos.
@@ -21,9 +17,6 @@
 
 🌱 Actualmente, me estoy enfocando en aprender tanto desarrollo frontend como backend. Estoy profundizando en tecnologías como Node.js, Docker, PHP y JavaScript para construir aplicaciones full-stack.
 
-📚 Siempre estoy abierto a aprender cosas nuevas y compartir conocimientos con otros.
-
-💬 Si tienes un proyecto o idea interesante, no dudes en contactarme.
 
 <!--
 **Dunlag/Dunlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
