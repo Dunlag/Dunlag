@@ -1,21 +1,22 @@
 ## Hi there 👋
-👋 Hi, I'm Fernando, a passionate developer with a focus on full-stack development. I work with technologies like Node.js, Express, Docker, TailwindCSS and databases.
 
-🎨 I’m also specializing in web design, creating beautiful and responsive layouts using CSS and Tailwind CSS. I enjoy crafting clean and user-friendly designs that enhance the user experience.
+👋 Hey, I'm Fernando, a developer who's into full-stack development. I work with technologies like Node.js, Express, Docker, TailwindCSS, and databases.
 
-🔧 I love exploring new technologies, continuously learning, and collaborating on exciting projects. Outside of coding, I'm passionate about video games, music, superhero movies, Star Wars, and traveling.
+🎨 I'm also getting into web design, making beautiful and responsive layouts with CSS and Tailwind CSS. I love creating clean, user-friendly designs that make the experience better.
 
-🌱 Right now, I'm focusing on learning both frontend and backend development. I'm diving into technologies like Node.js, Docker, PHP, and JavaScript to build full-stack applications.
+🔧 I'm all about exploring new tech, constantly learning, and working on cool projects. When I'm not coding, I'm into video games, music, superhero movies, Star Wars, and traveling.
 
-----
+🌱 Right now, I'm diving into both frontend and backend development. I'm learning things like Node.js, Docker, PHP, and JavaScript to build full-stack apps.
 
-👋 Hola, soy Fernando, un desarrollador apasionado con un enfoque en el desarrollo full-stack. Trabajo con tecnologías como Node.js, Express, Docker, TailwindCSS y bases de datos.
+-----
 
-🎨 También me estoy especializando en diseño web, creando layouts bonitos y responsivos utilizando CSS y Tailwind CSS. Disfruto crear diseños limpios y fáciles de usar que mejoren la experiencia del usuario.
+👋 Hola, soy Fernando, un desarrollador enfocado en el desarrollo full-stack. Trabajo con tecnologías como Node.js, Express, Docker, TailwindCSS y bases de datos.
 
-🔧 Me encanta explorar nuevas tecnologías, aprender de manera continua y colaborar en proyectos interesantes. Fuera del mundo del código, soy un apasionado de los videojuegos, la música, las películas de superhéroes, Star Wars y viajar.
+🎨 También me estoy metiendo en diseño web, creando layouts bonitos y responsivos con CSS y Tailwind CSS. Me gusta hacer diseños limpios y fáciles de usar que mejoren la experiencia.
 
-🌱 Actualmente, me estoy enfocando en aprender tanto desarrollo frontend como backend. Estoy profundizando en tecnologías como Node.js, Docker, PHP y JavaScript para construir aplicaciones full-stack.
+🔧 Me encanta explorar nuevas tecnologías, aprender siempre algo nuevo y trabajar en proyectos geniales. Cuando no estoy programando, me apasionan los videojuegos, la música, las películas de superhéroes, Star Wars y viajar.
+
+🌱 Ahora estoy enfocándome en aprender tanto frontend como backend. Estoy aprendiendo cosas como Node.js, Docker, PHP y JavaScript para crear aplicaciones full-stack.
 
 
 <!--
