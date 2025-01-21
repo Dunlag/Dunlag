@@ -10,6 +10,21 @@
 📚 I'm always open to learning new things and sharing knowledge with others.
 
 💬 If you have an interesting project or idea, feel free to reach out!
+
+----
+
+👋 Hola, soy Fernando, un desarrollador apasionado con un enfoque en el desarrollo full-stack. Trabajo con tecnologías como Node.js, Express, Docker, TailwindCSS y bases de datos.
+
+🎨 También me estoy especializando en diseño web, creando layouts bonitos y responsivos utilizando CSS y Tailwind CSS. Disfruto crear diseños limpios y fáciles de usar que mejoren la experiencia del usuario.
+
+🔧 Me encanta explorar nuevas tecnologías, aprender de manera continua y colaborar en proyectos interesantes. Fuera del mundo del código, soy un apasionado de los videojuegos, la música, las películas de superhéroes, Star Wars y viajar.
+
+🌱 Actualmente, me estoy enfocando en aprender tanto desarrollo frontend como backend. Estoy profundizando en tecnologías como Node.js, Docker, PHP y JavaScript para construir aplicaciones full-stack.
+
+📚 Siempre estoy abierto a aprender cosas nuevas y compartir conocimientos con otros.
+
+💬 Si tienes un proyecto o idea interesante, no dudes en contactarme.
+
 <!--
 **Dunlag/Dunlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
