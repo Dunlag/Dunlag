@@ -4,7 +4,7 @@
 
 🔧 I'm all about exploring new tech, constantly learning, and working on cool projects. When I'm not coding, I'm into video games, music, superhero movies, Star Wars, and traveling.
 
-🌱 Right now, I'm diving into both frontend and backend development. I'm learning things like Node.js, Docker, PHP, and JavaScript to build full-stack apps.
+🌱 Right now, I'm diving into both frontend and backend development. I'm learning things like Node.js, Pyhton, React, Docker, PHP, and JavaScript to build full-stack apps.
 
 -----
 
@@ -12,7 +12,7 @@
 
 🔧 Me encanta explorar nuevas tecnologías, aprender siempre algo nuevo y trabajar en proyectos geniales. Cuando no estoy programando, me apasionan los videojuegos, la música, las películas de superhéroes, Star Wars y viajar.
 
-🌱 Ahora estoy enfocándome en aprender tanto frontend como backend. Estoy aprendiendo cosas como Node.js, Docker, PHP y JavaScript para crear aplicaciones full-stack.
+🌱 Ahora estoy enfocándome en aprender tanto frontend como backend. Estoy aprendiendo cosas como Node.js, Pyhton, React, Docker, PHP y JavaScript para crear aplicaciones full-stack.
 
 
 <!--
