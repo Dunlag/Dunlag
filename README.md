@@ -4,7 +4,7 @@ Desarrollador frontend con más de 2 años de experiencia real en agencia web.
 En transición activa a stack moderno — construyo proyectos con **React 18** y **TypeScript** y los publico aquí.
 
 🌐 **Portfolio:** [dunlag.github.io/fernando](https://dunlag.github.io/fernando/)
-📍 Málaga, España · Disponible para teletrabajo o híbrido
+📍 Málaga, España · 
 📫 [LinkedIn](https://www.linkedin.com/in/fernandopinillavalbuena/) · [fernando.pinilla85@gmail.com](mailto:fernando.pinilla85@gmail.com)
 
 ---
