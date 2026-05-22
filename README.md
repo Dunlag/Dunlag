@@ -1,31 +1,29 @@
-## Hi there 👋
+# Fernando Pinilla · Frontend Developer
 
-👋 Hey, I'm Fernando, a developer who's into full-stack development. I work with technologies like Node.js, Express, Docker, TailwindCSS, and databases.
+Desarrollador frontend con más de 2 años de experiencia real en agencia web.
+En transición activa a stack moderno — construyo proyectos con **React 18** y **TypeScript** y los publico aquí.
 
-🔧 I'm all about exploring new tech, constantly learning, and working on cool projects. When I'm not coding, I'm into video games, music, superhero movies, Star Wars, and traveling.
+🌐 **Portfolio:** [dunlag.github.io/fernando](https://dunlag.github.io/fernando/)
+📍 Málaga, España · Disponible para teletrabajo o híbrido
+📫 [LinkedIn](https://www.linkedin.com/in/fernandopinillavalbuena/) · [fernando.pinilla85@gmail.com](mailto:fernando.pinilla85@gmail.com)
 
-🌱 Right now, I'm diving into both frontend and backend development. I'm learning things like Node.js, Pyhton, React, Docker, PHP, and JavaScript to build full-stack apps.
+---
 
------
+## Stack
 
-👋 Hola, soy Fernando, un desarrollador enfocado en el desarrollo full-stack. Trabajo con tecnologías como Node.js, Express, Docker, TailwindCSS y bases de datos.
+```
+Dominio     →  HTML5  ·  CSS3  ·  JavaScript ES6+  ·  Tailwind CSS  ·  Bootstrap  ·  PHP  ·  WordPress
+Aprendiendo →  React 18  ·  TypeScript  ·  Node.js
+```
 
-🔧 Me encanta explorar nuevas tecnologías, aprender siempre algo nuevo y trabajar en proyectos geniales. Cuando no estoy programando, me apasionan los videojuegos, la música, las películas de superhéroes, Star Wars y viajar.
+---
 
-🌱 Ahora estoy enfocándome en aprender tanto frontend como backend. Estoy aprendiendo cosas como Node.js, Pyhton, React, Docker, PHP y JavaScript para crear aplicaciones full-stack.
+## Proyectos destacados
 
-
-<!--
-**Dunlag/Dunlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Proyecto | Tech | Demo |
+|----------|------|------|
+| [Toldos Venecianos](https://github.com/Dunlag/toldos-venecianos-landing) | React 18 · CSS | [▶ Ver](https://dunlag.github.io/toldos-venecianos-landing/) |
+| [ascii-header-cli](https://github.com/Dunlag/ascii-header-cli) | TypeScript · Node.js | CLI tool |
+| [Proyectos UI](https://github.com/Dunlag/Proyectos-con-HTML-CSS-y-JS) | HTML · CSS · JS vanilla | Dark mode, slider, modales… |
+| [Carrito React](https://github.com/Dunlag/Carro_Compra_React) | React · Vite | Shopping cart |
+| [Dashboard Tailwind](https://github.com/Dunlag/dashboard-tailwind) | Tailwind CSS | Maquetación UI |
