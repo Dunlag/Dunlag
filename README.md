@@ -1,7 +1,7 @@
 # Fernando Pinilla · Frontend Developer
 
 Desarrollador frontend con más de 2 años de experiencia real en agencia web.
-En transición activa a stack moderno — construyo proyectos con **React 18** y **TypeScript** y los publico aquí.
+En paralelo construyo proyectos propios con **React** y **TypeScript** y los publico aquí.
 
 🌐 **Portfolio:** [dunlag.github.io/fernando](https://dunlag.github.io/fernando/)
 📍 Málaga, España · 
@@ -13,7 +13,7 @@ En transición activa a stack moderno — construyo proyectos con **React 18** y
 
 ```
 Dominio     →  HTML5  ·  CSS3  ·  JavaScript ES6+  ·  Tailwind CSS  ·  Bootstrap  ·  PHP  ·  WordPress
-Aprendiendo →  React 18  ·  TypeScript  ·  Node.js
+Proyectos propios →  React  ·  TypeScript  ·  Zustand  ·  Vite  ·  Vitest  ·  GSAP  ·  Node.js  ·  Electron  ·  Rust (Tauri)  ·  Go
 ```
 
 ---
@@ -22,8 +22,13 @@ Aprendiendo →  React 18  ·  TypeScript  ·  Node.js
 
 | Proyecto | Tech | Demo |
 |----------|------|------|
+| [Sol y Sombra](https://github.com/Dunlag/SolYSombra-codigo) | TypeScript · Astro · React | [▶ Ver prototipo](https://dunlag.github.io/SolYSombra-codigo/) |
+| [Portfolio](https://github.com/Dunlag/fernando) | React 18 · TypeScript · Zustand · GSAP | [▶ Ver](https://dunlag.github.io/fernando/) |
+| [Autostart Workspaces](https://github.com/Dunlag/omarchy-autostart-workspaces) | QML · Bash · Hyprland | [Ficha del plugin](https://plugins.omarchy.org/plugin.html?id=io.github.dunlag.autostart-workspaces) |
 | [Toldos Venecianos](https://github.com/Dunlag/toldos-venecianos-landing) | React 18 · CSS | [▶ Ver](https://dunlag.github.io/toldos-venecianos-landing/) |
 | [ascii-header-cli](https://github.com/Dunlag/ascii-header-cli) | TypeScript · Node.js | CLI tool |
 | [Proyectos UI](https://github.com/Dunlag/Proyectos-con-HTML-CSS-y-JS) | HTML · CSS · JS vanilla | Dark mode, slider, modales… |
 | [Carrito React](https://github.com/Dunlag/Carro_Compra_React) | React · Vite | Shopping cart |
 | [Dashboard Tailwind](https://github.com/Dunlag/dashboard-tailwind) | Tailwind CSS | Maquetación UI |
+
+Otras herramientas propias (repositorio privado, disponible a petición): spotify-cli, ESCROW, sitio, Creador de vídeos (AskPloc) y un conversor de imágenes.
