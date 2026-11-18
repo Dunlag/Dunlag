@@ -1,7 +1,6 @@
 # Fernando Pinilla · Frontend Developer
 
-Desarrollador frontend con más de 2 años de experiencia real en agencia web.
-En paralelo construyo proyectos propios con **React** y **TypeScript** y los publico aquí.
+Aquí vive todo lo que voy construyendo y practicando: webs, herramientas de terminal, plugins y algún experimento raro con React y TypeScript. Pasa, toca y no te asustes 
 
 🌐 **Portfolio:** [dunlag.github.io/fernando](https://dunlag.github.io/fernando/)
 📍 Málaga, España · 
